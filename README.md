@@ -1,4 +1,4 @@
-# Hi, I'm BryanCSH 🍂
+# Hi, I'm Bryan恒/BryanCSH ☁️
 🎮 Game Developer sharing my journey in Unity, creating a game and sharing what I learn along the way.<br/>
 🌱 Self-taught in UI/UX, Blender/3D Modeling, and Game Development<br/>
 ❤️ Making videos, sharing my progress about Coding, Blender, UI/UX on [Youtube](https://www.youtube.com/@BryanCSH)<br/>

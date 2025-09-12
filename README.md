@@ -1,8 +1,7 @@
 # Hi, I'm BryanCSH
-🎮 Game Developer sharing my journey in Unity, creating a game and sharing what I learn along the way.<br/>
+🎮 Developer sharing my journey, sharing what I learn along the way.<br/>
 ❤️ Maybe sharing my progress in the future about Coding, Blender, UI/UX on [Youtube](https://www.youtube.com/@BryanCSH)<br/>
 🌸 #learninginpublic [My Learning Den 🌸](https://www.google.com)<br/>
-🔭Currently working on my own game in Unity and learning 3D modeling, UI/UX design, and app development<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=BryanCSH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 

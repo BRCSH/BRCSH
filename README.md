@@ -1,4 +1,4 @@
-# Hi, I'm BryanCSH
+# Hi, I'm BryChen
 🎮 Developer sharing my journey, sharing what I learn along the way.<br/>
 ❤️ Maybe sharing my progress in the future about Coding, Blender, UI/UX on [Youtube](https://www.youtube.com/@BryanCSH)<br/>
 🌸 #learninginpublic [My Learning Den 🌸](https://www.google.com)<br/>
